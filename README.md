@@ -8,7 +8,7 @@ This provider extends Lorem provider with the set of English words.
 
 #### Install
 ```shell
-$ composer require --dev webinvader/faker-english-word-provider
+$ composer require --dev webinvader/fakerphp-english-word-provider
 ```
 
 #### Usage in service provider
