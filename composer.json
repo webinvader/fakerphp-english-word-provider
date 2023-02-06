@@ -1,0 +1,19 @@
+{
+    "name": "webinvader/fakerphp-english-word-provider",
+    "description": "This class extends fakerphp/faker Lorem provider in order to generate random words and sentences in english",
+    "keywords": [
+        "php",
+        "faker",
+        "laravel"
+    ],
+    "type": "library",
+    "require": {
+        "php": "^5.4 || ^7.0 || ^8.0",
+        "fakerphp/faker": "^1.9"
+    },
+    "autoload": {
+        "psr-4": { "Webinvader\\Faker\\": "src/Faker" }
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
